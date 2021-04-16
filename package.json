@@ -1,0 +1,28 @@
+{
+  "name": "ononokierii.github.io",
+  "version": "1.0.0",
+  "description": "ononokierii' blog",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ononokierii/ononokierii.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ononokierii/ononokierii.github.io/issues"
+  },
+  "homepage": "https://github.com/Ononokierii/ononokierii.github.io#readme"
+}
